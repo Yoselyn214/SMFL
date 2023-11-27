@@ -1,4 +1,4 @@
 # IMPLEMENTACIÓN DE LA LIBRERIA SFML
 ### Descarga de la libreria SFML:
-[SFML](https://www.sfml-dev.org/download.php){:target="_blank"}
+[SFML](https://www.sfml-dev.org/download.php)
 
