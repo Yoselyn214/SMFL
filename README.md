@@ -12,4 +12,7 @@
 
 #### Cambiamos el nombre del SFML-2.6.1 a SFML y lo transladamos al disco duro C.
 ![GH](TYu.png)
+
+###Cuando creemos un proyecto en CLionProjects donde queramos utilizar la libreria SFML aplicaremos en el cMakeList.txt:
+![GI](Capth.png)
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
