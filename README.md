@@ -16,6 +16,11 @@
 #### Cuando creemos un proyecto en CLionProjects donde queramos utilizar la libreria SFML aplicaremos en el cMakeList.txt:
 ![GI](Capth.png)
 ##### En vez de Pruebaaaa pondremos el nombre del proyecto.
-![AP](AP.png)
+![AP](Ap.png)
 ##### Recuerde darle click a ese Lood cmake changes.
+
+#### Implementa este encabezado en los archivos que quiera usar en el proyecto para poder usar la libreria.
+![H](Hola.png)
+
+## Video de presentación de nuestro proyecto:
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
