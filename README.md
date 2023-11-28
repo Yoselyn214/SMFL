@@ -10,4 +10,6 @@
 #### Lo recomendable es que haga una carpeta y extraiga el zip ahi:
 ![CP](Hj.png)
 
+#### Cambiamos el nombre del SFML-2.6.1 a SFML y lo transladamos al disco duro C.
+![GH](TYu.png)
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
