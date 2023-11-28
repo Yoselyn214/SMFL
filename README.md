@@ -17,10 +17,11 @@
 ![GI](Capth.png)
 ##### En vez de Pruebaaaa pondremos el nombre del proyecto.
 ![AP](Ap.png)
-##### Recuerde darle click a ese Lood cmake changes.
+##### Recuerde darle click a ese Lood cmake changes para guardar cambios.
 
 #### Implementa este encabezado en los archivos que quiera usar en el proyecto para poder usar la libreria.
 ![H](Hola.png)
+#####  Listo :) Ahora podra usar uso de esta libreria en todo su proyecto.
 
 ## Video de presentación de nuestro proyecto:
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
