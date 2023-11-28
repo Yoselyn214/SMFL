@@ -34,5 +34,5 @@
 ## Integrantes
 | José Rodriguez                                    | Yoselyn Miranda                             |
 | --------------------------------------------------| --------------------------------------------|
-| ![Usuario 1](https://example.com/user1.jpg)       | ![Usuario 2](https://example.com/user2.jpg) |
+| ![Usuario 1](jose.jpg)                            | ![Usuario 2](https://example.com/user2.jpg) |
 
