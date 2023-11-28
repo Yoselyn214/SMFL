@@ -27,8 +27,8 @@
 ![](Tarea.png)
 ![](Tarea1.png)
 ![](Tarea2.png)
-### Dato adicional 1: Los archivos que usamos para implementar nuestro programa es laberinto.cpp,laberinto.h ,main.cpp y arial.ttf,los demás son imágenes para el README.
-### Dato adicional 2: En el laberinto del SFML el azul es el punto inicial, el verde el punto final, el camino disponible es el color amarillo, las paredes son de color blanco y el camino corto es de color morado.
+#### Dato adicional 1: Los archivos que usamos para implementar nuestro programa es laberinto.cpp,laberinto.h ,main.cpp y arial.ttf,los demás son imágenes para el README.
+#### Dato adicional 2: En el laberinto del SFML el azul es el punto inicial, el verde el punto final, el camino disponible es el color amarillo, las paredes son de color blanco y el camino corto es de color morado.
 ## Video de presentación de nuestro proyecto:
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
 
