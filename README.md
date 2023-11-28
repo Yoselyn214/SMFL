@@ -30,3 +30,10 @@
 
 ## Video de presentación de nuestro proyecto:
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
+
+##Integrantes
+| Foto                                              | Nombre           |
+| --------------------------------------------------| -----------------|
+| ![Usuario 1](https://example.com/user1.jpg)       | Jose Rodriguez   |
+| ![Usuario 2](https://example.com/user2.jpg)       | Yoselyn Miranda  |
+
