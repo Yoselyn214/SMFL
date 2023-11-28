@@ -5,4 +5,4 @@
 [SFML_Descarga](https://www.sfml-dev.org/download/sfml/2.6.1/)
 ![Captura](Captura de pantalla (5242).png)
 
-[![Tutorial de GitHub]](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
+![Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
