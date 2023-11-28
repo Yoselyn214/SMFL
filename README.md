@@ -32,8 +32,8 @@
 [Video_de_exposición](https://www.youtube.com/watch?v=QsVg6Gwcgsk&ab_channel=Jos%C3%A9AlonsoRodr%C3%ADguezMoscoso)
 
 ## Integrantes
-| José Rodriguez                                    | Yoselyn Miranda                             |
-| --------------------------------------------------| --------------------------------------------|
-| <img src="jose.jpg" alt="Ejemplo" width="300" />  | ![Usuario 2](https://example.com/user2.jpg) |
+| José Rodriguez                                    | Yoselyn Miranda                                  |
+| --------------------------------------------------| -------------------------------------------------|
+| <img src="jose.jpg" alt="Ejemplo" width="300" />  | <img src="jos.jpeg" alt="Ejemplo" width="300" /> |
 
 
